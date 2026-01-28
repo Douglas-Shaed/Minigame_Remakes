@@ -1,0 +1,14 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1769627350
+export_presets.cfg::TextFile::-1::1769624602::0::1::::<><><>0<>0<><>::
+::res://Assets/::1769626105
+Background.png::CompressedTexture2D::1346288852122515493::1769293340::1769627351::1::::<><><>0<>0<>0f993920148861e9b02b2e049674d355<>res://.godot/imported/Background.png-e8880a50f4091751eaed728281d3c21e.ctex::
+Chisel_Active.png::CompressedTexture2D::2280382050643148273::1769623631::1769627351::1::::<><><>0<>0<>4c1c36ccb98354f4436d2a1843ae34cc<>res://.godot/imported/Chisel_Active.png-d3c04f395e1255078cb9836e94a8b9b5.ctex::
+Hammer_Active.png::CompressedTexture2D::2056975771404266718::1769623608::1769627351::1::::<><><>0<>0<>2a6fce3c0536773fa56ddfae69410a2f<>res://.godot/imported/Hammer_Active.png-c2138f534004359aa7bca5c21594663b.ctex::
+Health_Bars.png::CompressedTexture2D::1587370261957775584::1769615632::1769627351::1::::<><><>0<>0<>267500fdab79770ee04098ef74be438e<>res://.godot/imported/Health_Bars.png-b68c076effd9d1ec59fd5ace4441c91a.ctex::
+icon.svg::CompressedTexture2D::3599649847412584295::1766248735::1769627351::1::::<><><>0<>0<>03b0246d686971aa4e45412828744541<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
+Mining_Atlas.png::CompressedTexture2D::635765302356233023::1768700670::1769627351::1::::<><><>0<>0<>0d640ba07848afba2b58eedd52dd438b<>res://.godot/imported/Mining_Atlas.png-8019d5e8eec0eda9f20fdb7d98534237.ctex::
+::res://Objects/::1769625288
+Mining_Screen.tscn::PackedScene::4759389042884227037::1769623910::0::1::::<><><>0<>0<><>::uid://jb77xwouu82f::::res://Assets/Mining_Atlas.png<>uid://7qvtapbirfo0::::res://Assets/Chisel_Active.png<>uid://wu60yjqtmlc7::::res://Assets/Health_Bars.png<>uid://4kodcse87fq1::::res://Assets/Hammer_Active.png<>uid://cgatdko5unj4e::::res://Scripts/minigame.gd<>uid://tgfge5g3sidp::::res://Assets/Background.png
+::res://Scripts/::1769625342
+minigame.gd::GDScript::5195133957709748970::1769624449::0::1::::<>TileMapLayer<><>0<>0<><>::
