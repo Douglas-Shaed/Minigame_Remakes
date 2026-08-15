@@ -5,6 +5,7 @@ Games inside:
 Pokemon Mining Minigame
 
 Games to be added:
+
 Fishing Minigames
 
 Card Minigames
