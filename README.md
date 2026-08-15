@@ -5,12 +5,16 @@ Games inside:
 Pokemon Mining Minigame
 
 Games to be added:
-Fishing Minigames,
+Fishing Minigames
+
 Card Minigames
 
 Mining Minigame Controls
 ------------------------------
-Left-Click  : Chisel
+Left-Click  : Chisel 
+
 Right-Click : Hammer
+
 Backspace   : Restart/Reroll Game
+
 Escape      : Close Game
